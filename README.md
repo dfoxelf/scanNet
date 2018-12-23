@@ -1,6 +1,6 @@
 # scanNet
 
-You always wanted to know which hosts are on your network 
+You always wanted to know which hosts are up on your network 
 and you don't want to install extra software. So this is a 
 small script created for that purpose. 
 
